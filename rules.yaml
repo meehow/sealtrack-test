@@ -1,0 +1,5 @@
+exclusion_groups:
+  - name: front-door-keys
+    items:
+      - key-front
+      - key-front-backup

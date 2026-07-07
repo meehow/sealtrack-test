@@ -1,0 +1,7 @@
+id: e01
+kind: issue
+at: 2026-07-01T09:00:00Z
+item: laptop-01
+actor: alice
+to: person:alice
+note: issued for field work

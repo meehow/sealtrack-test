@@ -1,0 +1,7 @@
+id: e06
+kind: return
+at: 2026-07-04T08:00:00Z
+item: laptop-01
+actor: alice
+from: person:alice
+to: loc:vault-a

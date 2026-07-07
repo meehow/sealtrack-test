@@ -1,0 +1,7 @@
+id: e02
+kind: apply_seal
+at: 2026-07-01T09:01:00Z
+item: laptop-01
+actor: alice
+seals_added:
+  - S001
