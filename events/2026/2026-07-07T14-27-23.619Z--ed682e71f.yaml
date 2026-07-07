@@ -1,0 +1,7 @@
+id: ed682e71f
+kind: return
+at: 2026-07-07T16:27:23.619977072+02:00
+item: laptop-01
+actor: alice
+from: person:alice
+to: loc:vault-a
