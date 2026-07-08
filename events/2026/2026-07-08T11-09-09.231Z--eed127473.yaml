@@ -1,0 +1,7 @@
+id: eed127473
+kind: apply_seal
+at: 2026-07-08T13:09:09.23114522+02:00
+item: dupa
+actor: alice
+seals_added:
+    - 123ss
