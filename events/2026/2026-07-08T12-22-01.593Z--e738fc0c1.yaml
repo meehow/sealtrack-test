@@ -1,0 +1,7 @@
+id: e738fc0c1
+kind: apply_seal
+at: 2026-07-08T14:22:01.593407841+02:00
+item: test
+actor: alice
+seals_added:
+    - 123ss
