@@ -1,5 +1,11 @@
 exclusion_groups:
-  - name: front-door-keys
-    items:
-      - key-front
-      - key-front-backup
+    - name: front-door-keys
+      items:
+        - key-front
+        - key-front-backup
+access_rules:
+    - name: alice-laptop
+      items:
+        - laptop-01
+      allowed_people:
+        - alice
